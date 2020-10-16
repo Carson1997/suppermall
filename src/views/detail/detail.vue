@@ -1,5 +1,5 @@
 <template>
-	<div id="detail">
+	<div id="detail">123
 		<navbar class="detail-nav"></navbar>
 		<scroll class="content" ref="scroll">
 			<swiper :lbImg="lbImg"></swiper>
